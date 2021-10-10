@@ -1,19 +1,14 @@
-# React Portfolio  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-Using React create an updated portfolio including past projects, and also includes a link to your Linkedin, Github, and Resume
+# React Portfolio  
+I created a react portfolio with updated information.
 ## Table of Contents:
 * [Video](#video)
 * [License](#license)
 * [Questions](#questions)
-### Video of Functionality:
+### Demo Video of Functionality:
 
+[Demo](https://watch.screencastify.com/v/oNrQHsRRUr3PD96nyWlV)
 
-https://user-images.githubusercontent.com/79121046/133906462-a17b4956-1242-4d38-8a7d-922b9cbb95c2.mp4
-
+![video](https://watch.screencastify.com/v/oNrQHsRRUr3PD96nyWlV)
 
 ### License:
-This project is licensed under:
-MIT
-### Questions:
-If you have any questions contact me on [GitHub](https://github.com/DevinPawline) or contact 
-Devin Pawline at pawlinedevin@gmail.com
-![picture](https://github.com/DevinPawline.png?size=80)
+![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
