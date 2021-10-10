@@ -6,9 +6,10 @@ I created a react portfolio with updated information.
 * [Questions](#questions)
 ### Demo Video of Functionality:
 
-[Demo](https://watch.screencastify.com/v/oNrQHsRRUr3PD96nyWlV)
+[Link to the video example](https://watch.screencastify.com/v/oNrQHsRRUr3PD96nyWlV)
 
-![video](https://watch.screencastify.com/v/oNrQHsRRUr3PD96nyWlV)
+![image](./public/images/RP.png)
 
 ### License:
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+
