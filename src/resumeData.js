@@ -8,7 +8,7 @@ let resumeData = {
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/jmolina87/",
+        "url":"https://www.linkedin.com/in/jmolina87",
         "className":"fa fa-linkedin"
       },
       {
@@ -18,7 +18,7 @@ let resumeData = {
       },
       
     ],
-  "aboutme":"I am junior aspiring Full Stack Developer. I'm looking forward to start my career in the tech industry and succeed in such a growing community. I was born in Argentina and raised in the United States. I’m bilingual, I speak Spanish. My favorite things are music, sports, foodie, tech, and the most important of all is my family.",
+  "aboutme":"I am aspiring JuniorFull Stack Developer. I'm looking forward to start my career in the tech industry and succeed in such a growing community. I was born in Argentina and raised in the United States. I’m bilingual, I speak Spanish. My favorite things are music, sports, foodie, tech, and the most important of all is my family.",
   
   
   "skillsDescription":"Languages",
